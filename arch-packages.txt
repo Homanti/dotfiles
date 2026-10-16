@@ -1,0 +1,48 @@
+# --- Base and Kernel ---
+base
+base-devel
+linux
+linux-firmware
+linux-headers
+linux-zen
+linux-zen-headers
+
+# --- CPU and GPU (AMD + Nvidia Turing) ---
+amd-ucode
+nvidia-dkms
+nvidia-utils
+lib32-nvidia-utils
+
+# --- Network and Sound ---
+networkmanager
+pipewire
+pipewire-pulse
+pipewire-alsa
+pipewire-jack
+lib32-pipewire
+
+# --- Bootloader and System Services ---
+grub
+sddm
+
+# --- Graphical Environment ---
+niri
+noctalia
+
+# --- Terminals ---
+alacritty
+ghostty
+
+# --- Text Editors and Tools ---
+nano
+git
+
+# --- Documentation ---
+man-db
+man-pages
+texinfo
+
+# --- Applications ---
+firefox
+discord
+steam
