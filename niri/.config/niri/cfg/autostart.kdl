@@ -3,5 +3,5 @@
 
     spawn-at-startup "noctalia"
     spawn-at-startup "xwayland-satellite"
-spawn-at-startup "pipewire"
-spawn-at-startup "wireplumber"
+//spawn-at-startup "pipewire"
+//spawn-at-startup "wireplumber"

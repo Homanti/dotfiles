@@ -11,8 +11,8 @@
     }
 
     cursor {
-        xcursor-theme "AppleX"
-        xcursor-size 16
+        xcursor-theme "macOS"
+        xcursor-size 29
     }
 
     blur {

@@ -36,6 +36,14 @@ ghostty
 # --- Text Editors and Tools ---
 nano
 git
+stow
+lsd
+ripgrep
+bat
+zoxide
+fish
+xwayland-satellite
+zed
 
 # --- Documentation ---
 man-db
@@ -46,3 +54,14 @@ texinfo
 firefox
 discord
 steam
+fastfetch
+
+# -- Fonts --
+ttf-nerd-fonts-symbols
+otf-hasklig-nerd
+ttf-fira-code
+ttf-jetbrains-mono
+ttf-dejavu
+ttf-liberation
+noto-fonts
+noto-fonts-emoji
